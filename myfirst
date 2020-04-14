@@ -1,0 +1,19 @@
+# affiche bonjour le monde
+print ('Bonjour ')
+# attribut de l'input vers la variable name
+name = input("Quel est ton nom? :")
+# affichage de hello et resultat de a variable name
+print ("Hello, "+name+"!")
+
+# annee de naissance
+n = input("QUelle est ton annee de naissance? :")
+n1= input('Tu veux savoir ton age a quel annee?:')
+ant = (n1) - (n)
+print("Voyons voir ,"+name+"")
+print("Tu et nee en : "+n+".")
+print("Tu veux connaitre ton age en : "+n1+".")
+print("Notre recherche nous dit que en "+n1+"")
+print(""+ant+"")
+      
+
+input ('Press <enter>')
